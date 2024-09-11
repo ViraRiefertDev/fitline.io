@@ -4,8 +4,11 @@
 const headerBurger = document.querySelector('.header__burger');
 
 const headerMenu = document.querySelector('.header__menu');
+
 const header = document.querySelector('.header');
+
 const body = document.body;
+
 
 
 const activeBurger = ()=>{
